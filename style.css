@@ -1,0 +1,35 @@
+/* style.css */
+
+* {
+    font-family: "Georgia", serif;
+    background-color: wheat;
+}
+
+body,
+.links {
+    color: goldenrod
+}
+
+h1 {
+    font-weight: 700;
+    background-color: saddlebrown;
+    text-align: center;
+}
+
+h2,
+.links {
+    font-weight: 600;
+    background-color: tan;
+}
+
+.description {
+    color: sienna;
+}
+
+.ingredients {
+    color: forestgreen;
+}
+
+.steps {
+    color: #5947ff;
+}
